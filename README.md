@@ -46,8 +46,8 @@ I'm passionate about uncovering patterns in data and using machine learning to s
 ---
 
 📫 **Connect with Me**  
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/muhammadsameer36)  
+- [Email](mailto:sameer2344@yahoo.com)
 
 ---
 
