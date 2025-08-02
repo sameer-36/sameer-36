@@ -1,60 +1,64 @@
-# 👋 Hi, I'm Sameer — Data Analyst
+<h1 align="center">Hi 👋, I'm Sameer</h1>
+<h3 align="center">Aspiring Data Analyst & AI Enthusiast | Mathematics Graduate | Certified in AI and Data Analytics</h3>
 
-Welcome to my GitHub profile!  
-I'm a passionate **Data Analyst** skilled in transforming raw data into actionable insights. I leverage statistical analysis, data visualization, and machine learning to help organizations make data-driven decisions.
-
----
-
-## 🚀 About Me
-
-- 🎓 **Background:** Bachelor’s/Master’s in Data Science, Statistics, or a related field (customize as needed)
-- 💻 **Tools & Languages:**  
-  Python | R | SQL | Excel | Power BI | Tableau | Jupyter | Pandas | NumPy | Scikit-learn  
-- 📊 **Specialties:**  
-  Data Cleaning | Data Visualization | Exploratory Data Analysis | Predictive Modeling | Reporting & Dashboards  
-- 🏆 **Interests:**  
-  Analytics, Business Intelligence, Machine Learning, Data Storytelling
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameer-36&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-36" />
+</p>
 
 ---
 
-## 🛠️ Skills
+🎓 **Education**  
+- **Bachelor of Science in Mathematics**  
+- Certifications:  
+  - Huawei AI Certification  
+  - Google Data Analytics Professional Certificate (Coursera)
 
-- **Programming:** Python, R, SQL
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-- **Data Wrangling:** Pandas, Excel, ETL processes
-- **Machine Learning:** Scikit-learn, Regression, Classification, Clustering
-- **Reporting:** Dashboard design, Report automation
-
----
-
-## 📈 Projects
-
-- **[Customer Segmentation Analysis](#):** Clustered customers based on purchasing behavior using K-means.
-- **[Sales Dashboard](#):** Built interactive dashboards for sales insights with Power BI.
-- **[Predictive Analytics](#):** Developed regression models to forecast business KPIs.
-- *(Add more, or link to your repositories)*
+🧠 **What I Do**  
+I'm passionate about uncovering patterns in data and using machine learning to solve real-world problems. With a foundation in mathematics and formal certifications in AI and data analytics, I work on projects involving data visualization, statistical analysis, and predictive modeling.
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Machine Learning
-- Big Data Technologies (Spark, Hadoop)
-- Cloud Analytics (AWS, Azure)
-
----
-
-## 📫 How to reach me
-
-- Email: [your.email@example.com]
-- LinkedIn: [YourLinkedInProfile](#)
-- Twitter: [@yourhandle](#)
-
----
-
-## ⚡ Fun Fact
-I love uncovering patterns in messy data and turning numbers into stories!
+🛠️ **Languages & Tools**  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" alt="R" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" alt="Seaborn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="Scikit-Learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" alt="Tableau" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
+</p>
 
 ---
 
-*Thanks for visiting my profile! Feel free to connect or check out my projects below.* 🚀
+📊 **Projects**
+- **Customer Churn Prediction** – Built ML models (logistic regression, decision trees) to identify telecom customer churn.
+- **COVID-19 Data Tracker** – Visualized global pandemic trends using Python and Seaborn.
+- **Sales Dashboard** – Created interactive dashboards using Excel and Tableau to analyze retail data.
+- **Handwritten Digit Classifier** – Implemented CNN with TensorFlow for MNIST digit recognition.
+
+🔗 [Explore More Projects Here »](https://github.com/sameer-36?tab=repositories)
+
+---
+
+📫 **Connect with Me**  
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Email](mailto:your.email@example.com)
+
+---
+
+📈 **GitHub Stats**
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-36&layout=compact&hide=html,css" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-36&show_icons=true" alt="GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-36" alt="GitHub Streak" />
+</p>
