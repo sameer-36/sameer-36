@@ -22,15 +22,14 @@ I'm passionate about uncovering patterns in data and using machine learning to s
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" alt="R" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" width="40" alt="Seaborn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" alt="Scikit-Learn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" alt="Scikit-Learn" />
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" alt="Tableau" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40" alt="Tableau" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
 </p>
 
